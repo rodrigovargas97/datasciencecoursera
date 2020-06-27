@@ -1,1 +1,7 @@
+---
+title : "Hello World"
+author : "Rodrigo Vargas"
+date: "06/27/2020"
+---
+
 ## This is a markdown file
